@@ -1,0 +1,88 @@
+[06-Jul-2016 16:52:43 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 16:52:43 UTC] PHP Stack trace:
+[06-Jul-2016 16:52:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 16:52:43 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 16:52:43 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 16:52:43 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 16:52:43 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:52:43 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:53:20 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 16:53:20 UTC] PHP Stack trace:
+[06-Jul-2016 16:53:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 16:53:20 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 16:53:20 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 16:53:20 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 16:53:20 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:53:20 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:55:11 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 16:55:11 UTC] PHP Stack trace:
+[06-Jul-2016 16:55:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 16:55:11 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 16:55:11 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 16:55:11 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 16:55:11 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:55:11 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:55:52 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 16:55:52 UTC] PHP Stack trace:
+[06-Jul-2016 16:55:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 16:55:52 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 16:55:52 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 16:55:52 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 16:55:52 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:55:52 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:56:46 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 16:56:46 UTC] PHP Stack trace:
+[06-Jul-2016 16:56:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 16:56:46 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 16:56:46 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 16:56:46 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 16:56:46 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:56:46 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:57:09 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 16:57:09 UTC] PHP Stack trace:
+[06-Jul-2016 16:57:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 16:57:09 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 16:57:09 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 16:57:09 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 16:57:09 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:57:09 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:58:25 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 16:58:25 UTC] PHP Stack trace:
+[06-Jul-2016 16:58:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 16:58:25 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 16:58:25 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 16:58:25 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 16:58:25 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:58:25 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:59:53 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 16:59:53 UTC] PHP Stack trace:
+[06-Jul-2016 16:59:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 16:59:53 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 16:59:53 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 16:59:53 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 16:59:53 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 16:59:53 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 17:01:46 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 17:01:46 UTC] PHP Stack trace:
+[06-Jul-2016 17:01:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 17:01:46 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 17:01:46 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 17:01:46 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 17:01:46 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 17:01:46 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 17:04:15 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 16
+[06-Jul-2016 17:04:15 UTC] PHP Stack trace:
+[06-Jul-2016 17:04:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 17:04:15 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 17:04:15 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 17:04:15 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 17:04:15 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 17:04:15 UTC] PHP   6. AppBundle\Controller\DefaultController->indexAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 17:05:05 UTC] PHP Fatal error:  Class 'AppBundle\Controller\Response' not found in /home/ubuntu/workspace/terminal/src/AppBundle/Controller/DefaultController.php on line 18
+[06-Jul-2016 17:05:05 UTC] PHP Stack trace:
+[06-Jul-2016 17:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/terminal/web/app.php:0
+[06-Jul-2016 17:05:05 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/terminal/web/app.php:18
+[06-Jul-2016 17:05:05 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2337
+[06-Jul-2016 17:05:05 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:2997
+[06-Jul-2016 17:05:05 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042}() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
+[06-Jul-2016 17:05:05 UTC] PHP   6. AppBundle\Controller\DefaultController->numberAction() /home/ubuntu/workspace/terminal/var/bootstrap.php.cache:3042
